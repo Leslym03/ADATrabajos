@@ -6,5 +6,5 @@ Los jugadores tienen que mover una joya para juntar tres o más joyas adyacentes
 El juego termina cuando no hay mas movimientos posibles.
 
 <p align="center">
-  <img width="50%" height="50%" src="Trie/prueba1.PNG">
+  <img width="70%" height="70%" src="Trie/prueba_a.PNG">
 </p>
